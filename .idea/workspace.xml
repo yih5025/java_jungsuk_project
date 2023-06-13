@@ -7,7 +7,6 @@
     <list default="true" id="49cd5906-42d3-4097-99d3-db6a799219be" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/src/overflow.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/overflow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1686665876114</updated>
-      <workItem from="1686665877693" duration="1220000" />
+      <workItem from="1686665877693" duration="1550000" />
     </task>
     <servers />
   </component>
